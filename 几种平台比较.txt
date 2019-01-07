@@ -1,4 +1,4 @@
-@花样年华 考虑gitlab可gitee或bitbucket，这些是私有的
+考虑gitlab可gitee或bitbucket，这些是私有的
 
 github适合开源项目，如有私有，要收费的
 
